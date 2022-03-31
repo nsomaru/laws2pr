@@ -6,11 +6,11 @@ purpose or correctness. Rely on it at your own risk.
 # License
 Copyright 2002 Nikhil Somaru (nsomaru@gmail.com).
 This work is licensed under Creative Commons Attribution-Non-Commercial 4.0.
-You may find the [full text of the license here](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+You may find the [__full text of the license here (linked - click)__](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 
 # Errata, Contributions
-This work is [available on Github](https://github.com/nsomaru/laws2pr). You may
+This work is [__available on Github (linked -- click)__](https://github.com/nsomaru/laws2pr). You may
 submit issues or issue pull requests there to update it.
 
 

@@ -1,4 +1,7 @@
 ---
+title: Ownership Notes
+Author: Nikhil Somaru (nsomaru@gmail.com)
+toc: yes
 header-includes:
   - \usepackage{enumitem}
   - \setlistdepth{20}
