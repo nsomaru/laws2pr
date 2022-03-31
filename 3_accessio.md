@@ -1,17 +1,3 @@
----
-header-includes:
-  - \usepackage{enumitem}
-  - \setlistdepth{20}
-  - \renewlist{itemize}{itemize}{20}
-  - \renewlist{enumerate}{enumerate}{20}
-  - \setlist[itemize]{label=$\cdot$}
-  - \setlist[itemize,1]{label=\textbullet}
-  - \setlist[itemize,2]{label=--}
-  - \setlist[itemize,3]{label=*}
-output:
-  rmarkdown::pdf_document:
-      keep_tex: yes
----
 # 3. Acquisition of Ownership: *Accessio*
 
 
@@ -78,6 +64,7 @@ output:
             - Can the join be removed withot injuring the property?
             - A secure join is *not neccesarily* definitive
         3. Intention of the owner of the moveable
+            - *Ipse dixit* -- expressed or professed intention (subjective)
             - How securely is it attached?
             - Is there some agreement in place showing intention?
             - This is controversial as original acquisition should not rely on
