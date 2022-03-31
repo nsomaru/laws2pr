@@ -62,6 +62,7 @@
 
 ### Abstract Theory of Ownership
 - Endorsed by the courts
+- Real agreement and delivery are abstracted from the *causa*
 - Requires merely putative *causa*
     - Acts like a *causa* even if faulty
     - Sufficient for ownership to transfer
