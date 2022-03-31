@@ -7,7 +7,7 @@
     - "The remedy in the thing"
     - Rights based remedy
     - Restores possession if it has been lost unlawfully
-- There are also delictual and enrichment rememdies
+- There are also delictual and enrichment remedies
 
 
 ## Requirements
