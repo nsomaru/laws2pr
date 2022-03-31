@@ -20,7 +20,7 @@
     - eg: item is exhibited with regular stock and trade (see: *Konstanz Properties (Pty) Ltd v WM Spilhaus en Kie (WP) Bpk* 1996 (3) SA 273 (A))
         - Law protects *bona fide* buyer against the true owner
 2. **Fault** -- the representation must have been made negligently
-    - Would a person reasonably forsee that someone else may be misled?
+    - Would a person reasonably foresee that someone else may be misled?
 3. **Reliance** -- by the 3rd party raising estoppel
     - Cannot rely on any representation made by any other person
         - eg: controller introduces fraud, 3rd party relied on that (see:

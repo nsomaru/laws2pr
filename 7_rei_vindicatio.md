@@ -25,7 +25,7 @@
 
 
 ### Existing and Identifiable
-- Sole purpose of *rei vindicatio* is the resotration of possession
+- Sole purpose of *rei vindicatio* is the restoration of possession
 - Court cannot order the return of something that does not exist
 - Court cannot order something restored if it is unidentifiable
 - Deliberate and fraudulent destruction by possessor

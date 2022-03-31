@@ -18,7 +18,7 @@
 
 
 ## Requirements for the Transaction
-1. ***Causa*** -- underlying commericial transaction (contract)
+1. ***Causa*** -- underlying commercial transaction (contract)
 2. **Real agreement** -- transfer of ownership
     - The agreement in relation to the thing
 - (1) & (2) are usually simultaneous, but not always
@@ -34,7 +34,7 @@
     - **Limited real rights** are rights in the property of another (eg:
         servitude)
 - Interesting consequence: you can sell something without actually owning it
-    - Contract of sale is a commitment to permanent and undistrubed use &
+    - Contract of sale is a commitment to permanent and undisturbed use &
         enjoyment
     - Sale does not necessarily include a transfer of ownership
 
@@ -45,8 +45,8 @@
 - Parties must have **legal capacity** and must **consent**
     - *Animus* -- intention to transfer and receive ownership
 - Putative or *iusta causa*
-- Moveable cash sale: purchase price must be paid
-- Moveable credit sale: once credit has been granted and delivery effected
+- Movable cash sale: purchase price must be paid
+- Movable credit sale: once credit has been granted and delivery effected
     - Risky: creditor cannot institute *actio rei vindicatio*
 - Immovable: registration at the Deeds Office
 - Must be a recognised form of delivery

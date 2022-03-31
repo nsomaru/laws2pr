@@ -28,14 +28,14 @@
     - Sufficient and effective control
     - Does not need to be constant -- must be exclusive and afford immediate access
         - an agent may possess with the understanding that it is on your behalf
-        - varies accoring to the type of property (moveable/immovable)
+        - varies according to the type of property (movable/immovable)
 - Openness
     - Immovables are always possessed openly
     - Visible, obvious, patent; no secrecy or hiding
     - Movables are tricky
         - Test is objective: could it have come to the attention of an owner,
             by exercising reasonable care, that his thing was in the possession
-            of the aquirer? To wit, would they have been able to find it?
+            of the acquirer? To wit, would they have been able to find it?
             - Owner should have ability to interrupt by *actio rei vindicatio*
         - *The University of Fort Hare v Wavelengths 256 (Pty) Ltd* 2010 JDR 1393 (WCC)
             - Judgement criticised: harder to establish prescription which
@@ -51,7 +51,7 @@
 - Most movables will not last 30 years
 - Sum of current possessor and all predecessors in title (except actual owner)
     - All possessors must meet other requirements
-- Interupted by consent, must restart when contrary to owner's interests again
+- Interrupted by consent, must restart when contrary to owner's interests again
 
 
 ## Provisions of the 1969 Act
@@ -60,7 +60,7 @@
 ## Section 2
 - Prescription is not interrupted if
     - Legal proceedings are instituted within 6 months to restore possession
-    - Poession is restored within 1 year by any lawful means
+    - Possession is restored within 1 year by any lawful means
 
 ## Section 4
 - To interrupt prescription judicially, all of the following must be met:
@@ -72,7 +72,7 @@
 
 ## Section 3
 - If there is any impediment which prevents enforcement of ownership rights
-    - eg: minority, legal capactiy
+    - eg: minority, legal capacity
 - Must exist within the last 3 years of prescription
 - We stop counting and wait
 - Owner is given a further 3 years to enforce ownership rights

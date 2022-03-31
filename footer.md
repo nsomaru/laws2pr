@@ -1,5 +1,5 @@
 # Disclaimer
-This information is provided as is, with not guarantee as to fitness for
+This information is provided as is, with no guarantee as to fitness for
 purpose or correctness. Rely on it at your own risk.
 
 

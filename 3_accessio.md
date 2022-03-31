@@ -2,12 +2,12 @@
 
 
 ## General
-- *Accessio* is the means by which one corporeal thing is joined (or *acceeds*)
+- *Accessio* is the means by which one corporeal thing is joined (or *accedes*)
     to another corporeal thing to produce a single composite *res*
 - The two (or more) *res* might appear separate, but **functionally and legally they are
     one.** Eg:
-    - A diamond acceeds to a ring
-    - A button acceeds to a jacket
+    - A diamond accedes to a ring
+    - A button accedes to a jacket
 - *Accessio* results in one *res* becoming the **principle** thing, and others
     becoming **accessory** things
     - The owner of the principle thing becomes owner of the composite
@@ -26,12 +26,12 @@
 ## Types of *Accessio*
 - Your first task is to identify the type of accession as this will determine
     which rules you must apply:
-    1. moveable &rarr; moveable
-    2. moveable &rarr; immovable
+    1. movable &rarr; movable
+    2. movable &rarr; immovable
     3. immovable &rarr; immovable
 
 
-### 1. Moveable &rarr; Moveable
+### 1. Movable &rarr; Movable
 - The joined property *appear and operate as one*
 - Requirements of the join:
     - The principle and accessory should be identifiable
@@ -51,19 +51,19 @@
         Law and Order* 1991 (3) SA 439 (T))
 
 
-### 2. Moveable &rarr; Immovable
-- Land is always the principle *res*, moveables always the accessory
-- *Inaedificatio* = processes by which a moveable joins to land by *industry* (building)
+### 2. Movable &rarr; Immovable
+- Land is always the principle *res*, movables always the accessory
+- *Inaedificatio* = processes by which a movable joins to land by *industry* (building)
 - Anything which has roots in the soil joins by *natural* means
     - exception: plant nurseries where the join is not permanent
 - Tests for *accessio*:
     - Courts agree on the following 3 factors, not how they are weighed:
-        1. Nature and purpose of the moveable *res*
+        1. Nature and purpose of the movable *res*
             - Is this something that ought to be joined to an immovable?
         2. Degree and manner of annexation
-            - Can the join be removed withot injuring the property?
-            - A secure join is *not neccesarily* definitive
-        3. Intention of the owner of the moveable
+            - Can the join be removed without injuring the property?
+            - A secure join is *not necessarily* definitive
+        3. Intention of the owner of the movable
             - *Ipse dixit* -- expressed or professed intention (subjective)
             - How securely is it attached?
             - Is there some agreement in place showing intention?
@@ -90,7 +90,7 @@
             - Publicity principle: actions of owner make it look like
                 *accessio* has occurred
                 - This should be the deciding factor
-            - Moveable cannot acceed or not based on the payment of debt
+            - Movable cannot accede or not based on the payment of debt
                 - Impossible situation: a payment of debt in the future
                     retroactively creates *accessio* in the past
                 - *Accessio* becomes dependent upon an unknown event

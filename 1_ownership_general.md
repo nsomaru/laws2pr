@@ -53,7 +53,7 @@
     3. Marriage COP -- joint estate -- bound
 - Co-ownership may be terminated by the common-law separation action, *actio
     communi dividundo*
-    - prefarable to come to an agreement for termination without court
+    - preferable to come to an agreement for termination without court
         intervention
 
 

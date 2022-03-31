@@ -3,8 +3,8 @@
 
 ## *Traditio General*
 - *Traditio* = delivery
-- Requirement for the transfer of ownership of moveables
-    - Ownership will not transfer in a moveable unless there has been payment
+- Requirement for the transfer of ownership of movables
+    - Ownership will not transfer in a movable unless there has been payment
         of the purchase price/credit granted and some form of delivery
 - Must be a recognised form of delivery
 - Doctrine of notice: the law requires ***animus*** and some **public action**
