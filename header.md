@@ -12,3 +12,14 @@ output:
   rmarkdown::pdf_document:
       keep_tex: yes
 ---
+
+# Introduction
+This is a summary of notes taken from lectures for the LAWS2PR course at UKZN
+delivered by Judy Parker in 2022. Thank you Ms Parker.
+
+
+They are intended for personal educational use. Please see the disclaimer and license at
+the end of this document.
+
+
+

@@ -1,4 +1,4 @@
-# Protection of Ownership: Estoppel
+# 8. Protection of Ownership: Estoppel
 
 
 ## General
@@ -26,3 +26,6 @@
         - eg: controller introduces fraud, 3rd party relied on that (see:
             *Grosvenor Motors (Potchefstroom) Ltd v Douglas 1956* (3) SA 420 (A))
 4. **Detriment** -- of the third party due to his reliance
+
+
+

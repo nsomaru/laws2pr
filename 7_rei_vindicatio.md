@@ -1,4 +1,4 @@
-# Protection of Ownership: *Rei Vindicatio*
+# 7. Protection of Ownership: *Rei Vindicatio*
 
 ## General
 - An owner cannot be deprived of ownership rights or possession against their
@@ -44,3 +44,6 @@
     3. Show that you are not in possession or that possession is lawful
         - eg: lease/servitude
 - See estoppel
+
+
+

@@ -4,7 +4,7 @@ purpose or correctness. Rely on it at your own risk.
 
 
 # License
-Copyright Nikhil Somaru (nsomaru@gmail.com)
+Copyright 2002 Nikhil Somaru (nsomaru@gmail.com).
 This work is licensed under Creative Commons Attribution-Non-Commercial 4.0.
 You may find the [full text of the license here](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
@@ -14,3 +14,6 @@ This work is [available on Github](https://github.com/nsomaru/laws2pr). You may
 submit issues or issue pull requests there to update it.
 
 
+# Open Source
+Made with open source tools: pandoc, LaTex. Written in Markdown. Thank you to
+the authors of those tools.

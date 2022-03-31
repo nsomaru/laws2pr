@@ -67,3 +67,6 @@
     - Acts like a *causa* even if faulty
     - Sufficient for ownership to transfer
     - Brings about legal certainty
+
+
+

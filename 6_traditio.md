@@ -1,4 +1,4 @@
-# Acquisition of Ownership: *Traditio*
+# 6. Acquisition of Ownership: *Traditio*
 
 
 ## *Traditio General*
@@ -73,3 +73,6 @@
 - All land has a title deed with the name of the owner
 - There must be a **written** purchase and sale agreement
 - The registrar endorses the transfer (Deeds Registry Act)
+
+
+
